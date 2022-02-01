@@ -4,6 +4,7 @@
 ## Important note:
 - This script just for Tehran owghat
 ## Installation
+- Install [jq](https://stedolan.github.io/jq/) on your system.
 - Download owghat.sh and execute following commands
 - $ cd
 - $ mkdir bin
