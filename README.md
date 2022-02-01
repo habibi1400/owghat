@@ -2,7 +2,7 @@
 
 ---
 ## Important note:
-- This script just support Tehran.
+- This script just for Tehran owghat
 ## Installation
 - Download owghat.sh and execute following commands
 - $ cd
