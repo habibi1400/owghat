@@ -1,6 +1,6 @@
 # In the name of GOD
 
----
+
 ## Important note:
 - This script just for Tehran owghat
 ## Installation
