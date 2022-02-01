@@ -12,6 +12,8 @@ echo 'Powered By:                                    '
 echo '            https://www.bahesab.ir/time/prayer/'
 echo '            https://patorjk.com/software/taag  '
 echo '--------------------------------------------------------------------------'
+echo '>>>>>>>>>>>>>>>>>>>>>  NOTICE: TEHRAN/TEHRAN OWGHAT  <<<<<<<<<<<<<<<<<<<<<'
+echo '--------------------------------------------------------------------------'
 
 curl -s 'https://www.bahesab.ir/mdn/time/azan/' \
   -H 'Connection: keep-alive' \
