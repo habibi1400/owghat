@@ -8,7 +8,9 @@ echo '888     888 88888P Y88888 888    888 888    888   d88P   888     888    '
 echo 'Y88b. .d88P 8888P   Y8888 Y88b  d88P 888    888  d8888888888     888    '
 echo ' "Y88888P"  888P     Y888  "Y8888P88 888    888 d88P     888     888    '
 echo '--------------------------------------------------------------------------'
-echo 'Powered By: https://www.bahesab.ir/time/prayer/'
+echo 'Powered By:                                    '
+echo '            https://www.bahesab.ir/time/prayer/'
+echo '            https://patorjk.com/software/taag  '
 echo '--------------------------------------------------------------------------'
 
 curl -s 'https://www.bahesab.ir/mdn/time/azan/' \
