@@ -1,6 +1,8 @@
 # In the name of GOD
 
 ---
+## Important note:
+- This script just support Tehran.
 ## Installation
 - Download owghat.sh and execute following commands
 - $ cd
