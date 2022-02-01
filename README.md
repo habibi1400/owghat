@@ -26,7 +26,9 @@ d88P" "Y88b 888   o   888 d88P  Y88b 888    888       d88888     888
 Y88b. .d88P 8888P   Y8888 Y88b  d88P 888    888  d8888888888     888    
  "Y88888P"  888P     Y888  "Y8888P88 888    888 d88P     888     888    
 --------------------------------------------------------------------------
-Powered By: https://www.bahesab.ir/time/prayer/
+Powered By:                                    
+            https://www.bahesab.ir/time/prayer/
+            https://patorjk.com/software/taag  
 --------------------------------------------------------------------------
 Fajr => 05:39
 Sunrise => 07:05
