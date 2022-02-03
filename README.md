@@ -2,21 +2,23 @@
 
 
 ## Important note:
-- This script just for Tehran owghat
+- This script is just for Tehran owghat
 ## Installation
 - Install [jq](https://stedolan.github.io/jq/) on your system.
+- Install libvte
 - Download owghat.sh and execute following commands
-- $ cd
-- $ mkdir bin
-- $ mv owghat.sh bin/
-- $ chmod +x bin/owghat.sh
-#### That's it
+``` 
+$ cd
+$ mkdir bin
+$ mv owghat.sh bin/
+$ chmod +x bin/owghat.sh
+```
+- That's it!
 
 ---
 ## Usage
-- $ owghat.sh
-
 ```
+$ owghat.sh
 ----------------------------------------------------------------------------
                                   ╓╫╫╫   ╓╦╦╦╦╦╦╦╦                   ╙╫╫╦   
                                   ╫╫╫┐   ║╫╫╫╫╫╫╫╫                    ╫╫╫   
