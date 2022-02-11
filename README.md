@@ -1,4 +1,4 @@
-# In the name of GOD
+# In the name of God
 
 
 ## Important note:
